@@ -1,0 +1,20 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Bot YesLife",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Tytgat Maxime",
+  "license": "ISC",
+  "dependencies": {
+    "demojijs": "^1.2.0",
+    "discord.js": "^11.5.1",
+    "fetch": "^1.1.0",
+    "kayn": "^0.10.2",
+    "node-fetch": "^2.6.0",
+    "teemo-shroom": "^1.0.4"
+  }
+}
